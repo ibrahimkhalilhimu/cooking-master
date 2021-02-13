@@ -1,0 +1,35 @@
+body {
+  background: #edd263;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.nav-link {
+  font-weight: bold;
+}
+
+.search-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  border: none;
+  outline: none !important;
+}
+.search-box {
+  position: relative;
+}
+.form-control {
+  height: 50px;
+  border: none !important;
+  outline: none !important;
+}
+
+.list-item li {
+  list-style-type: none;
+  color: #3b2d64;
+  /* color:  #2196F3; */
+}
+.checked {
+  background-color: #3b2d64 !important;
+}
